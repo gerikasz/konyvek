@@ -1,0 +1,52 @@
+* {
+	box-sizing: border-box;
+}
+#keret {
+	max-width: 1000px;
+	margin: 0 auto 0 auto;
+	background-image: url('../kepek/konyv_hatter.jpg');
+	float: bottom
+	
+}
+.konyv {
+	background-color: #EECCAA;
+	border: 1px solid black;
+	background-image: url('../kepek/book_icon.jpg');
+	font-family: Times New Roman;
+	margin: 0 100px 0 100px
+}
+.konyv img {
+	max-width: 120px;
+	width: 90%;
+	float: left
+}
+.cimsorok {
+	content:'';
+	clear: both;
+	display: table;
+	font-size: 20px;
+	text-align: left;
+}
+.elvalaszto {
+	background-color: #443322;
+}
+#kiemelt {
+	text-align: bold
+}
+p {
+	margin: 15px 0px 15px 0px;
+	text-align: left;
+	font-size: 15px
+}
+h1 {
+	margin: 0 auto 0 400px;
+}
+h2 {
+	margin: 0 auto 0 140px;
+}
+h3 {
+	margin: 0 auto 0 140px;
+}
+h4 {
+	margin: 0 auto 0 140px;
+}
